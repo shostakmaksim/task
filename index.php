@@ -16,6 +16,10 @@ for learning PHP 5 and higher
 //            include 'task/array10_sort_asc.php';
 //            include 'task/progression_arif.php';
 //            include 'task/pow5_trick.php';
+//            include 'task/calc_exect_number_in _array.php';
+//            include './task/array_shrink_to_unique_only.php';
+//            include 'task/verify_anagrams.php';
+            include 'task/get_longest_word_of_paragraph.php';
         ?>
     </body>
 </html>
